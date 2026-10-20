@@ -15,7 +15,7 @@ official upstream artifacts. Their source changes are proposed in:
 - https://github.com/IdreesInc/Miracode/pull/23 (source Bold and optical accents)
 
 Exact reviewed source tree:
-https://github.com/SimonRiemertzon/Miracode/tree/781cbf6
+https://github.com/SimonRiemertzon/Miracode/tree/d59b18a
 
 Build with FontForge20230101 and fontTools4.63.0 using
 `python tools/build.py --with-bold --base-only`. Only the unpatched Regular
